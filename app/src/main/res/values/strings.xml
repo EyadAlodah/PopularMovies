@@ -1,0 +1,21 @@
+<resources>
+  <string name="app_name">Popular Movies</string>
+  <string name="movieTitle">Movie Title:</string>
+  <string name="releseDate">Release Date:</string>
+  <string name="plotSynopsis">Overview:</string>
+  <string name="avgRating">Average Rating:</string>
+  <string name="MovieDetails">Movie Details</string>
+  <string name="popularMovies">Popular Movies</string>
+  <string name="topRated">Top Rated</string>
+  <string name="topRateMovies">Top Rated Movies</string>
+  <string name="trailers">Trailers</string>
+  <string name="trailer">Trailer</string>
+  <string name="reviews">Reviews</string>
+  <string name="author">Author:</string>
+  <string name="comment">Comment</string>
+  <string name="title_activity_favorites">Favorites</string>
+  <string name="favorite">Favorite</string>
+  <string name="removeFromFavorite">Delete</string>
+
+
+</resources>
