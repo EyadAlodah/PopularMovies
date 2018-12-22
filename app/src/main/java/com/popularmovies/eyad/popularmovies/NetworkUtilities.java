@@ -22,7 +22,7 @@ import java.util.Scanner;
       "https://api.themoviedb.org";
 
     private static final String API_KEY =
-      "73381f62262b22d568cd3f175881f5a7";
+      "key";
 
     private static final String MOVIE_POSTER_RAW_URL = "http://image.tmdb.org";
 
